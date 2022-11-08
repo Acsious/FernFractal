@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractalKG", "FractalKG\FractalKG.csproj", "{3AF38429-F12F-4A76-8A6E-36E85061C4B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF38429-F12F-4A76-8A6E-36E85061C4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF38429-F12F-4A76-8A6E-36E85061C4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF38429-F12F-4A76-8A6E-36E85061C4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF38429-F12F-4A76-8A6E-36E85061C4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2D72078-A679-4372-980E-2F04B00BAF99}
+	EndGlobalSection
+EndGlobal
